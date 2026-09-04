@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "创建链接.md",
+                "file": "0上手必看/UnityAsset目录规范.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "创建链接"
+              "title": "UnityAsset目录规范"
             }
           }
         ]
@@ -94,74 +94,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3b02ab4ee869e62e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "欢迎.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "反向链接"
-            }
-          },
-          {
-            "id": "c436b0e0fc448495",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "欢迎.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "出链"
-            }
-          },
-          {
-            "id": "d6feec210af6f191",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "标签"
-            }
-          },
-          {
-            "id": "32dc07ba834d151b",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "添加笔记属性"
-            }
-          },
-          {
             "id": "b3fbccb27b5a2d29",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
+                "file": "0上手必看/UnityAsset目录规范.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -174,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,9 +125,13 @@
       "bases:新建数据库": false
     }
   },
-  "active": "81f1d7703a9360d2",
+  "active": "b3fbccb27b5a2d29",
   "lastOpenFiles": [
+    "未命名.md",
+    "0上手必看/UnityAsset目录规范.md",
+    "0上手必看",
     "创建链接.md",
-    "欢迎.md"
+    "欢迎.md",
+    "测试"
   ]
 }
